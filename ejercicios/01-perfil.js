@@ -7,4 +7,4 @@ const nombre = "Cristhian";
 let edad = 21;
 const instituto = "Idat";
 let matriculado = true;
-console.log("Bienvenido " + nombre + "tienes " + edad + "estas estudiando en " + instituto + "y estas matriculado " + matriculado);
+console.log("Bienvenido " + nombre + " tienes " + edad + "estas estudiando en " + instituto + "y estas matriculado " + matriculado);
