@@ -3,3 +3,12 @@
 // Declara const producto="Cuaderno", const precioUnitario=12.5, const cantidad=3. Calcula subtotal y crea mensajeBoleta que incluya producto y total.
 
 // TODO: escribe aquí tu solución.
+
+const producto = "Cuaderno";
+const precioUnitario = 12.5;
+const cantidad = 3;
+
+const subtotal = precioUnitario * cantidad;
+const total = subtotal;
+const mensajeBoleta = `Producto: ${producto} - Total: ${total}`;
+console.log(mensajeBoleta);
